@@ -22,9 +22,10 @@ let myName = "Giglio";
 console.log(myName);
 
 //esercizo 6
-let number3 = 4;
+let x = 12; 
+let result = 4 - x; 
 
-console.log(number3 - x);
+console.log(result); 
 
 //esercizio 7
 let name1 = "john";
