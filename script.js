@@ -1,5 +1,5 @@
 //esercizio 2
-const myName = "Simone";
+let myName = "Simone";
 
 console.log(myName);
 
@@ -17,22 +17,24 @@ let x = 12;
 console.log(x);
 
 //esercizio 5
-let myName = "Giglio";
+//myName = "Giglio";
 
-console.log(myName);
+//console.log(myName);
 
 //esercizo 6
-let x = 12; 
-let result = 4 - x; 
 
-console.log(result); 
+let result2 = 4 - x;
+
+console.log(result2);
 
 //esercizio 7
 let name1 = "john";
 let name2 = "John";
 
-const = 'name1 !== name2'
+const confronto = name1 !== name2;
 
 console.log("name1 è diversa da name2");
 
 console.log("name1 è uguale a name2");
+
+console.log(confronto);
